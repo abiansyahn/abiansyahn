@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abiansyahn
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently learning data science
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning data science and digital marekting
+- 💞️ I’m looking to collaborate on anything that challenging
 - 📫 How to reach me email: abainsyahn@gmail.com
 
 <!---
